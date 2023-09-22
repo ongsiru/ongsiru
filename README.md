@@ -17,8 +17,9 @@
 <br><img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" /><br>
 
 📱 <b>Embedded S/W</b>
-<br><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-DEE2E6?style=flat&logo=linux&logoColor=black" /><br>
-
+<br> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-DEE2E6?style=flat&logo=linux&logoColor=black" /><br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongsiru&layout=compact">
 ## 
 
 ### 3. About Me
