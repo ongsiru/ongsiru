@@ -10,7 +10,7 @@
 🕸️ <b>Web</b>
 <br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/><br>
 
-🎮 <b>Game Server</b>
+🎮 <b>Game</b>
 <br><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal5-000000?logo=unrealengine&style=flat"/> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/><br>
 
 🤖 <b>Android APP</b>
